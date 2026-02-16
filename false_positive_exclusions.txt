@@ -1,27 +1,29 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Cracked Forum
+Cults3D
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
-Wikidot
+YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
