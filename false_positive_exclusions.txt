@@ -1,13 +1,12 @@
 APClips
 Archive.org
+Carbonmade
 Code Snippet Wiki
 DeviantArt
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LessWrong
-LiveJournal
 LushStories
 PocketStars
 Realmeye
@@ -21,7 +20,6 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 mercadolivre
 opennet
