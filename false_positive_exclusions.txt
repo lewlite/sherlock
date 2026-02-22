@@ -1,13 +1,20 @@
 APClips
+Academia.edu
 Archive.org
+CGTrader
+Chess
 Code Snippet Wiki
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
+Minecraft
+Patched
 PocketStars
 Realmeye
 Reddit
@@ -17,7 +24,7 @@ SlideShare
 Smule
 Splice
 Spotify
-Tiendanube
+Trovo
 TryHackMe
 Weblate
 YandexMusic
