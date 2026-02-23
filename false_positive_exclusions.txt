@@ -1,8 +1,5 @@
 APClips
-Academia.edu
 Archive.org
-CGTrader
-Chess
 Code Snippet Wiki
 DeviantArt
 GNOME VCS
@@ -11,7 +8,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
 Minecraft
 Patched
@@ -27,8 +23,8 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
