@@ -1,5 +1,6 @@
 APClips
 Archive.org
+BoardGameGeek
 Code Snippet Wiki
 DeviantArt
 GNOME VCS
@@ -8,7 +9,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Minecraft
 Patched
 PocketStars
@@ -23,8 +23,7 @@ Spotify
 Trovo
 TryHackMe
 Weblate
+YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
-xHamster
