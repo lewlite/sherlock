@@ -1,29 +1,28 @@
 APClips
 Archive.org
-BoardGameGeek
-Code Snippet Wiki
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Patched
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
+Shelf
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster
