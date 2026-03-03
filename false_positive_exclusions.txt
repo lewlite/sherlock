@@ -1,7 +1,9 @@
 APClips
 Archive.org
+BoardGameGeek
 Codolio
 DeviantArt
+Flipboard
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -25,7 +27,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
