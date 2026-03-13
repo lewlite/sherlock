@@ -1,6 +1,6 @@
 APClips
+Anilist
 Archive.org
-Chatujme.cz
 Codolio
 DeviantArt
 GNOME VCS
@@ -12,6 +12,7 @@ LessWrong
 LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,6 +29,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
