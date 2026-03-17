@@ -1,16 +1,12 @@
 APClips
 Archive.org
-Audiojungle
 Codolio
 DeviantArt
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
-Minecraft
 Patched
 PocketStars
 Pornhub
@@ -22,6 +18,7 @@ Scribd
 Shelf
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Trovo
@@ -29,6 +26,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
 xHamster
