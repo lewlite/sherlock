@@ -1,7 +1,8 @@
 APClips
 Archive.org
-Carbonmade
+Audiojungle
 Codolio
+DeviantArt
 GeeksforGeeks
 Giphy
 Hashnode
@@ -15,13 +16,13 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -29,3 +30,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
