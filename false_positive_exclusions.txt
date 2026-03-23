@@ -1,6 +1,6 @@
 APClips
-Academia.edu
 Archive.org
+Carbonmade
 Codolio
 DeviantArt
 GeeksforGeeks
@@ -11,6 +11,7 @@ LessWrong
 LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -19,15 +20,15 @@ Scribd
 Shelf
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
+xHamster
