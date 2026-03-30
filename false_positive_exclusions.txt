@@ -7,7 +7,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LemmyWorld
 LessWrong
 LushStories
 Patched
@@ -26,6 +25,7 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+interpals
 mercadolivre
 opennet
 phpRU
