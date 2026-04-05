@@ -8,8 +8,8 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Linktree
 LushStories
-Minecraft
 Patched
 PocketStars
 Rarible
@@ -24,7 +24,6 @@ Splice
 Spotify
 TryHackMe
 Weblate
-YandexMusic
 interpals
 mercadolivre
 opennet
