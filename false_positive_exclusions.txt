@@ -11,7 +11,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Pornhub
@@ -28,6 +27,7 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
+dailykos
 interpals
 mercadolivre
 opennet
