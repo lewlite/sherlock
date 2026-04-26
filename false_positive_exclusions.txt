@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -13,7 +14,6 @@ Hubski
 LessWrong
 LushStories
 Patched
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -24,12 +24,15 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
 dailykos
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
+threads
