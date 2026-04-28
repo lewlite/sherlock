@@ -3,7 +3,6 @@ APClips
 Airliners
 Apple Discussions
 Archive.org
-Audiojungle
 Bandcamp
 Codolio
 DeviantArt
@@ -13,13 +12,14 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Patched
 Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -28,7 +28,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
