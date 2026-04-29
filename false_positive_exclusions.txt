@@ -3,8 +3,11 @@ APClips
 Airliners
 Apple Discussions
 Archive.org
+Audiojungle
 Bandcamp
+Blogger
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 GeeksforGeeks
@@ -19,7 +22,6 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -28,6 +30,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -36,4 +39,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
 xHamster
