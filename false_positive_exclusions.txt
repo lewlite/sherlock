@@ -6,7 +6,6 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -14,7 +13,9 @@ Giphy
 Hashnode
 Hubski
 LushStories
+Minecraft
 Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -25,7 +26,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 TryHackMe
 Velomania
 Weblate
