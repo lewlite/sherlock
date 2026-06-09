@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,15 +6,17 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
+Hashnode
 Hubski
 LessWrong
+Linktree
+LushStories
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
