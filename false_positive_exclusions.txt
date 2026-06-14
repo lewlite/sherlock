@@ -8,6 +8,7 @@ ArtStation
 Bandcamp
 Codolio
 Cults3D
+DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,7 +17,6 @@ Giphy
 HackenProof (Hackers)
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Patched
@@ -25,6 +25,7 @@ Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -35,6 +36,7 @@ Star Citizen
 Trovo
 TryHackMe
 Velomania
+Venmo
 Weblate
 YandexMusic
 authorSTREAM
