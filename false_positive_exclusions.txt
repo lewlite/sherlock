@@ -7,9 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
-DEV Community
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -25,18 +22,15 @@ Rarible
 Realmeye
 Reddit
 Replit.com
-ReverbNation
 RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trovo
+TrashboxRU
 TryHackMe
 Velomania
-Venmo
 Weblate
 YandexMusic
 authorSTREAM
