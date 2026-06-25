@@ -6,13 +6,14 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 LessWrong
 LushStories
@@ -29,7 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
+Star Citizen
 TryHackMe
 Velomania
 Weblate
