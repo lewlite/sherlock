@@ -17,6 +17,7 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -25,7 +26,6 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -38,11 +38,9 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-fixya
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
