@@ -8,17 +8,16 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
 LessWrong
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -30,9 +29,12 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
