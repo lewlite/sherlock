@@ -11,13 +11,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LinkedIn
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -28,12 +27,13 @@ Replit.com
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
