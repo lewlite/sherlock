@@ -5,9 +5,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -21,7 +21,9 @@ Instapaper
 LessWrong
 LinkedIn
 LushStories
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -34,6 +36,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Weblate
