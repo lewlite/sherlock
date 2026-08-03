@@ -8,6 +8,7 @@ Bandcamp
 Blogger
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -30,15 +31,18 @@ Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+Star Citizen
+Strava
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
