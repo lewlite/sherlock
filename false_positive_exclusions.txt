@@ -20,7 +20,6 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 Odysee
 OurDJTalk
 PCGamer
@@ -36,9 +35,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -47,6 +46,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
