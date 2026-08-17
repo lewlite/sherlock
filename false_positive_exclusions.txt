@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 Cults3D
@@ -21,8 +22,10 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
 OurDJTalk
+Outgress
 PCGamer
 Patched
 Rarible
@@ -36,6 +39,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
