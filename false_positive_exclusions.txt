@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -21,8 +19,8 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LiveJournal
 LushStories
+NitroType
 Odysee
 PCGamer
 Pornhub
@@ -32,6 +30,7 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
