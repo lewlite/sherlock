@@ -3,6 +3,7 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
@@ -21,7 +22,7 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-Lobsters
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -36,7 +37,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Tenor
 Trakt
 Trovo
 TryHackMe
@@ -54,3 +54,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
