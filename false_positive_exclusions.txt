@@ -10,9 +10,9 @@ CGTrader
 Championat
 Chatujme.cz
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -22,9 +22,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -33,12 +35,12 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -52,5 +54,6 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 social.tchncs.de
 svidbook
