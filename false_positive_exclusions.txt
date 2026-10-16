@@ -18,7 +18,6 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-GitHub
 HackerNews
 Hashnode
 Houzz
@@ -27,7 +26,6 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -58,3 +56,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
