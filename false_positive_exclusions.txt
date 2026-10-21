@@ -6,6 +6,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blipfoto
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
@@ -21,6 +23,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Jupyter Community Forum
 LinkedIn
 Linktree
 LushStories
@@ -33,7 +36,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -47,6 +49,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 interpals
 mercadolivre
@@ -54,4 +57,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
