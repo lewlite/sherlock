@@ -4,29 +4,20 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-ArtStation
-Bandcamp
-CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Envato Forum
 GaiaOnline
 GeeksforGeeks
-Giphy
 HackerNews
 Hashnode
-Houzz
 Hubski
 Instapaper
 LinkedIn
-Linktree
 LushStories
-NationStates Nation
-NationStates Region
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -40,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
