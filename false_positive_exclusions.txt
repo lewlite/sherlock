@@ -4,6 +4,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -16,7 +17,6 @@ Hashnode
 Hubski
 Instapaper
 LinkedIn
-LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -31,7 +31,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Weblate
@@ -46,3 +45,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
