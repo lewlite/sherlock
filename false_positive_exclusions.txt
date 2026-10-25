@@ -17,7 +17,6 @@ Hashnode
 Hubski
 Instapaper
 LinkedIn
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -31,6 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
