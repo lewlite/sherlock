@@ -4,6 +4,7 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Audiojungle
 CGTrader
 Championat
 Chatujme.cz
@@ -20,6 +21,7 @@ LinkedIn
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -45,4 +47,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
