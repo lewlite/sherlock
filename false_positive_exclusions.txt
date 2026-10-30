@@ -1,9 +1,9 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Blogger
+CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -16,6 +16,8 @@ Hashnode
 Hubski
 Instapaper
 LinkedIn
+LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -31,15 +33,12 @@ Splice
 Spotify
 Trakt
 TryHackMe
-Velomania
 Vero
-Weblate
 YandexMusic
 authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
 opennet
