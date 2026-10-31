@@ -1,9 +1,8 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-CGTrader
 Championat
 Chatujme.cz
 Codolio
@@ -15,6 +14,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 LushStories
 Minecraft
@@ -45,3 +45,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
