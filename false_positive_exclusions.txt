@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -9,7 +10,6 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-GitBook
 HackerNews
 Hashnode
 Hubski
@@ -19,6 +19,7 @@ LushStories
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -44,4 +45,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
+xHamster
