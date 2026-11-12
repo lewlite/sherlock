@@ -1,14 +1,13 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-CGTrader
 Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Flipboard
 GaiaOnline
 GeeksforGeeks
 HackerNews
@@ -16,6 +15,8 @@ Hashnode
 Hubski
 Instapaper
 LinkedIn
+LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -44,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
