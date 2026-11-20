@@ -1,9 +1,7 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -15,8 +13,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
-LibraryThing
 LinkedIn
 Linktree
 LushStories
@@ -48,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
